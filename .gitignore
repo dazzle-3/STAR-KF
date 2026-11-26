@@ -1,0 +1,12 @@
+# Input data and generated results
+*.mat
+*.asv
+*.log
+/results/
+/results_new/
+/outputs*/
+/validation/tests/
+
+# Operating system files
+.DS_Store
+Thumbs.db
